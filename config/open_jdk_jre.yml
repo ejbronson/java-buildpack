@@ -21,7 +21,7 @@ jre:
   repository_root: "{default.repository.root}/openjdk/{platform}/{architecture}"
 memory_calculator:
   version: 2.0.2_RELEASE
-  repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
+  repository_root: "{default.repository.root}/memory-calculator/trusty/{architecture}"
   stack_threads: 300
   memory_sizes:
     heap: 
